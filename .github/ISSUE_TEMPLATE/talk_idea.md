@@ -1,5 +1,6 @@
 ---
 name: Talk Idea 💡🎤
+labels: "talk-idea"
 about: Propose an idea for a talk or topic you'd like to to see
 ---
 

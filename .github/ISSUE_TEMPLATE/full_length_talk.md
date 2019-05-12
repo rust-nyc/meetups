@@ -1,5 +1,6 @@
 ---
 name: Full-length Talk ⌛ 🎤
+labels: "full-length-talk"
 about: Propose a full-length talk you'd like to give
 ---
 

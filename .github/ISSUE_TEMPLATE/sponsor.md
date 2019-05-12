@@ -1,5 +1,6 @@
 ---
 name: Sponsor 🍕
+labels: "sponsor"
 about: Help out with Meetup expenses
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: Host 🏡
+labels: "host"
 about: Share your space with our members
 ---
 
