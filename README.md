@@ -39,3 +39,6 @@ once a month and we can't do that without your help. If you'd like to help
 please open 👉  [a new github issue](https://github.com/rust-nyc/meetups/issues/new/choose) 👈
 
 
+## Contacting us
+
+If you feel you need to contact our Meetup organizers more directly you can do so [here](https://www.meetup.com/Rust-NYC/members/?op=leaders)
