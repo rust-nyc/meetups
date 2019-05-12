@@ -1,6 +1,6 @@
 # Meetups
 
-> Boostrapper repo for organizing [Rust NYC Meetups](https://meetup.com/rust-nyc)
+> 🏕️ Boostrapper repo for organizing [Rust NYC Meetups](https://meetup.com/rust-nyc)
 
 
 ## About
