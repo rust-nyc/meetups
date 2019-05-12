@@ -36,6 +36,6 @@ from working with rust
 
 In order to run a successful Meetup we need all of the following to come together
 once a month and we can't do that without your help. If you'd like to help
-please open 👉  [a new github issue](issues/new/choose) 👈
+please open 👉  [a new github issue](https://github.com/rust-nyc/meetups/issues/new/choose) 👈
 
 
