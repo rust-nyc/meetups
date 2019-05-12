@@ -28,4 +28,5 @@ from working with rust
 
 In order to run a successful Meetup we need all of the following to come together
 once a month and we can't do that without your help. If you'd like to help
-please open a github issue.
+please open 👉  [a new github issue](issues/new/choose) 👈
+

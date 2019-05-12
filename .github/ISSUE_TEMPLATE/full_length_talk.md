@@ -1,9 +1,7 @@
 ---
 name: Full-length Talk ⌛ 🎤
-about: Promose a full-length talk you'd like to give
+about: Propose a full-length talk you'd like to give
 ---
-
-<!-- Please search existing issues to avoid creating duplicates. -->
 
 ## Talk Title
 
