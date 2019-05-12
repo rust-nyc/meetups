@@ -3,8 +3,10 @@ name: Lightning talk ⚡️🎤
 about: Propose a lighting talk you'd like to give
 ---
 
-## Talk Title
+## Lightning talk ⚡️🎤
 
-## Brief description of the tak
+### Talk Title
 
-## Short personal bio about yourself
+### Brief description of the tak
+
+### Short personal bio about yourself

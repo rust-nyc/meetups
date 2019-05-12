@@ -3,8 +3,10 @@ name: Full-length Talk ⌛ 🎤
 about: Propose a full-length talk you'd like to give
 ---
 
-## Talk Title
+## Full-length Talk ⌛ 🎤
 
-## Brief description of the tak
+### Talk Title
 
-## Short personal bio about yourself
+### Brief description of the tak
+
+### Short personal bio about yourself

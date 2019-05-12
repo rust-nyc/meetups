@@ -3,8 +3,10 @@ name: Host 🏡
 about: Share your space with our members
 ---
 
-## What is your venue's capacity
+## Host 🏡
 
-## Do you have security restrictions
+### What is your venue's capacity
 
-## Where can we find you
+### Do you have security restrictions
+
+### Where can we find you
