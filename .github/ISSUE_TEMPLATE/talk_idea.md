@@ -1,12 +1,6 @@
 ---
 name: Talk Idea 💡🎤
-about: Propose a lighting talk you'd like to give
+about: Propose an idea for a talk or topic you'd like to to see
 ---
 
-<!-- Please search existing issues to avoid creating duplicates. -->
-
-## Talk Title
-
-## Brief description of the tak
-
-## Short personal bio about yourself
+## What do you want to learn about
