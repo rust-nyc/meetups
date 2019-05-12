@@ -7,7 +7,7 @@
 
 We try and host a Meetup once a month. This reposoitory contains markdown file that
 tries to capture the skeleton of information needed to publish an event on our
-[Meetup Page](https://meetup.com/rust-nyc].
+[Meetup Page](https://meetup.com/rust-nyc).
 
 ## Format
 
