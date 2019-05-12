@@ -1,6 +1,6 @@
 # Meetups
 
-> 🏕️ Bootstrapper repo for organizing [Rust NYC Meetups](https://meetup.com/rust-nyc)
+> 🏕️ Bootstrapper repo for organizing [Rust NYC Meetups](https://meetup.com/rust-nyc) 🗽 🦀
 
 ## About
 
@@ -9,6 +9,8 @@ tries to capture the skeleton of information needed to publish an event on our
 [Meetup Page](https://meetup.com/rust-nyc).
 
 You can help by 👉 [opening new github issue](https://github.com/rust-nyc/meetups/issues/new/choose) 👈 with a participation contribution to the Meetup.
+
+> Be sure to [Join](https://www.meetup.com/Rust-NYC/?action=join) our Meetup to RSVP 📛
 
 ## Format
 
