@@ -1,10 +1,18 @@
 # Meetups
 
-> Boostraper repo for organizing [Rust NYC Meetups](https://meetup.com/rust-nyc)
+> Boostrapper repo for organizing [Rust NYC Meetups](https://meetup.com/rust-nyc)
+
+
+## About
+
+We try and host a Meetup once a month. This reposoitory contains markdown file that
+tries to capture the skeleton of information needed to publish an event on our
+[Meetup Page](https://meetup.com/rust-nyc].
 
 ## Format
 
-Rust NYC is always open to changes in format but the following components
+Rust NYC is always open to changes in format but the following components are typically
+needed for a successful recipe
 
 ### 🏡 Host
 
@@ -29,4 +37,5 @@ from working with rust
 In order to run a successful Meetup we need all of the following to come together
 once a month and we can't do that without your help. If you'd like to help
 please open 👉  [a new github issue](issues/new/choose) 👈
+
 
